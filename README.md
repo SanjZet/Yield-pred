@@ -1,21 +1,6 @@
 # Crop Yield Prediction Pipeline
 
 This repository contains a **stacking ensemble model** for predicting crop yields in India using historical data. The pipeline is designed to handle numerical, categorical, and skewed features and provides highly accurate predictions using state-of-the-art machine learning models.
-
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Dataset](#dataset)  
-- [Features](#features)  
-- [Pipeline](#pipeline)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Evaluation](#evaluation)  
-- [Example Prediction](#example-prediction)  
-- [License](#license)  
-
 ---
 
 ## Project Overview
@@ -70,9 +55,4 @@ The model uses the following features:
 
 ---
 
-## Installation
 
-```bash
-git clone https://github.com/yourusername/crop-yield-prediction.git
-cd crop-yield-prediction
-pip install -r requirements.txt
